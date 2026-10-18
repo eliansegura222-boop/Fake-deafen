@@ -1,0 +1,11 @@
+{
+  "name": "Fake Deafen (Experimental)",
+  "description": "Revenge clasico / Vendetta: aparenta ensordecimiento sin silenciar el audio local, si se detecta el gateway de Discord Android.",
+  "authors": [
+    { "name": "Community", "id": "0" }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_headphones_24px"
+  }
+}
