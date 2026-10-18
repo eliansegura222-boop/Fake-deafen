@@ -1,6 +1,6 @@
 {
   "name": "Fake Deafen (Experimental)",
-  "description": "Revenge clasico / Vendetta: aparenta ensordecimiento sin silenciar el audio local, si se detecta el gateway de Discord Android.",
+  "description": "Fake Deafen persistente para Revenge clasico; comandos locales BUILT-IN /dfon y /dfoff para encender y apagar al instante.",
   "authors": [
     {
       "name": "Community",
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_headphones_24px"
   },
-  "hash": "a7709707d160d6e72b41640ece0135caca445e555ef868eacf505ff8093a866d"
+  "hash": "da97319ac15fd148b24f6b33cf8856e8b47f1e3b3e967cc452e45736ccf6d797"
 }
