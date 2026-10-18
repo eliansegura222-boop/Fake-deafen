@@ -277,6 +277,6 @@
             status = "Plugin detenido.";
             redraw();
         },
-        settings: React.createElement(SettingsScreen)
+        settings: SettingsScreen
     };
 })()
